@@ -24,11 +24,3 @@ Atualmente focado em arquitetura e desenvolvimento server-side, utilizando:
 *   Lua
 *   MySQL
 *   Docker
-
-## 📂 Como rodar este projeto localmente
-
-Como o projeto é estático (apenas Front-end puro), não há necessidade de instalar dependências complexas (como Node.js ou gerenciadores de pacotes).
-
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
